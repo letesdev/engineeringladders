@@ -8,7 +8,7 @@ El marco se basa en gran medida en gráficos de radar para representar visualmen
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="charts/template-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="charts/template.png">   <img alt="Template Chart" src="charts/template.png"> </source></source></picture>
+  <source media="(prefers-color-scheme: light)" srcset="charts/template.png">   <img alt="Gráfico de plantilla" src="charts/template.png"> </source></source></picture>
 
 # Escaleras profesionales
 
@@ -21,117 +21,117 @@ El marco tiene 4 escaleras diferentes:
 
 Si está confundido acerca de la diferencia entre un [líder tecnológico](TechLead.md) y un [director de ingeniería](EngineeringManager.md), consulte la página [Líder tecnológico versus gerente de ingeniería](TechLead-EngineeringManager.md) para obtener una comparación detallada.
 
-Level | Senior | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Director de Proyectos Técnico](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md)
+Nivel | Senior | [Desarrollador](Developer.md) | [Líder tecnológico](TechLead.md) | [Director de Proyectos Técnico](TechnicalProgramManager.md) | [Director de Ingeniería](EngineeringManager.md)
 :-: | :-: | :-: | :-: | :-: | :-:
 1 | No | [D1](Developer.md#d1---developer-1) |  |  |
 2 | No | [D2](Developer.md#d2---developer-2) |  |  |
 3 | No | [D3](Developer.md#d3---developer-3) |  |  |
-4 | Yes | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) |
-5 | Yes | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5)
-6 | Yes | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6)
-7 | Yes | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7)
+4 | Sí | [D4](Developer.md#d4---developer-4) | [TL4](TechLead.md#tl4---tech-lead-4) | [TPM4](TechnicalProgramManager.md#tpm4---technical-program-manager-4) |
+5 | Sí | [D5](Developer.md#d5---developer-5) | [TL5](TechLead.md#tl5---tech-lead-5) | [TPM5](TechnicalProgramManager.md#tpm5---technical-program-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5)
+6 | Sí | [D6](Developer.md#d6---developer-6) | [TL6](TechLead.md#tl6---tech-lead-6) | [TPM6](TechnicalProgramManager.md#tpm6---technical-program-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6)
+7 | Sí | [D7](Developer.md#d7---developer-7) | [TL7](TechLead.md#tl7---tech-lead-7) | [TPM7](TechnicalProgramManager.md#tpm7---technical-program-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7)
 
-(click on position name for more details)
+(haga clic en el nombre del puesto para obtener más detalles)
 
 # Ejes principales
 
-The chart shown above has the following 5 axes:
+El gráfico que se muestra arriba tiene los siguientes 5 ejes:
 
-- **Technology**: knowledge of the tech stack and tools
-- **System**: level of ownership of the system(s)
-- **People**: relationship with the team(s)
-- **Process**: level of engagement with the development process
-- **Influence**: scope of influence of the position
+- **Tecnología** : conocimiento de la pila tecnológica y las herramientas.
+- **Sistema** : nivel de propiedad del sistema(s)
+- **Personas** : relación con el equipo(s)
+- **Proceso** : nivel de compromiso con el proceso de desarrollo.
+- **Influencia** : alcance de influencia del puesto.
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+El eje **de influencia** puede verse como una *dimensión diferente* ya que es ortogonal y se aplica a todos los demás ejes.
 
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+Cada eje tiene 5 niveles diferentes de rendimiento. Es importante resaltar que cada nivel incluye al(los) anterior(es). Por ejemplo, alguien que *evangeliza* la tecnología, *se especializa* y también la *adopta* .
 
-Keep reading to better understand each level.
+Sigue leyendo para comprender mejor cada nivel.
 
 # Niveles de desempeño
 
-## Technology
+## Tecnología
 
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team
+1. **Adopta** : aprende y adopta activamente la tecnología y las herramientas definidas por el equipo.
 2. **Se especializa** : es la persona a quien acudir para una o más tecnologías y toma la iniciativa de aprender otras nuevas.
 3. **Evangeliza** : investiga, crea pruebas de concepto (POCs, <em>Proofs of Concepts</em>) e introduce nuevas tecnologías al equipo.
 4. **Domina** : tiene un conocimiento muy profundo sobre toda la tecnología del sistema.
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+5. **Crea** : diseña y crea nuevas tecnologías que son ampliamente utilizadas por equipos internos o externos.
 
-## System
+## Sistema
 
 1. **Mejora** : impulsa con éxito nuevas funciones y correcciones de errores para mejorar y ampliar el sistema
 2. **Diseña** : diseña e implementa funciones de tamaño mediano a grande al tiempo que reduce la deuda tecnológica del sistema.
 3. **Se Responsabiliza** : se responsabiliza de la operación de producción y el monitoreo del sistema, y conoce sus Acuerdos de Nivel de Servicio (SLA, <em>Service Level Agreement</em>).
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+4. **Evoluciona** : evoluciona la arquitectura para soportar requisitos futuros y define sus SLA.
+5. **Lidera** : lidera la excelencia técnica del sistema y crea planes para mitigar las interrupciones.
 
 ## Personas
 
-1. **Learns**: quickly learns from others and consistently steps up when it is required
+1. **Aprende** : aprende rápidamente de los demás y avanza constantemente cuando es necesario.
 2. **Apoya** : apoya proactivamente a otros miembros del equipo y les ayuda a tener éxito.
-3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+3. **Mentores** : asesora a otros para acelerar su crecimiento profesional y los anima a participar.
+4. **Coordina** : coordina a los miembros del equipo proporcionando comentarios efectivos y moderando las discusiones.
+5. **Gestiona** : gestiona la carrera, las expectativas, el rendimiento y el nivel de felicidad de los miembros del equipo.
 
-## Process
+## Proceso
 
-1. **Follows**: follows the team processes, delivering a consistent flow of features to production
-2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
+1. **Sigue** : sigue los procesos del equipo, entregando un flujo constante de funciones a producción.
+2. **Hace cumplir** : hace cumplir los procesos del equipo, asegurándose de que todos comprendan los beneficios y las compensaciones.
 3. **Desafía** : desafía los procesos del equipo, buscando formas de mejorarlos.
-4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+4. **Ajusta** : ajusta los procesos del equipo, escucha los comentarios y guía al equipo a través de los cambios.
+5. **Define** : define los procesos adecuados para el nivel de madurez del equipo, equilibrando agilidad y disciplina.
 
-## Influence
+## Influencia
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+1. **Subsistema** : tiene un impacto en uno o más subsistemas.
+2. **Equipo** : impacta a todo el equipo, no solo a partes específicas del mismo.
+3. **Múltiples equipos** : impacta no solo a su equipo sino también a otros equipos.
+4. **Empresa** : tiene un impacto en toda la organización tecnológica
+5. **Comunidad** : tiene un impacto en la comunidad tecnológica
 
 # Preguntas frecuentes (FAQs)
 
-**What if some of the people don't meet all the points?**
+**¿Qué pasa si algunas personas no cumplen con todos los puntos?**
 
-That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
+Eso es muy normal, las personas suelen ser más fuertes en algunas áreas y más débiles en otras. El marco no debe utilizarse como una lista de verificación para promocionar a las personas, sino más bien como una guía para tener conversaciones profesionales significativas.
 
-**What if my organization's career ladder is different?**
+**¿Qué pasa si la escala profesional de mi organización es diferente?**
 
-Since the framework is open source, you have the opportunity to adapt it to your organization. Feel free to use the [chart template](charts/template.png) to define your own levels.
+Dado que el marco es de código abierto, tiene la oportunidad de adaptarlo a su organización. Siéntase libre de utilizar la [plantilla de gráfico](charts/template.png) para definir sus propios niveles.
 
-**When is a person ready to move to the next level?**
+**¿Cuándo está lista una persona para pasar al siguiente nivel?**
 
-Companies usually expect a person to be performing at the next level *consistently for several months* before formalizing a promotion.
+Las empresas suelen esperar que una persona se desempeñe en el siguiente nivel *de manera constante durante varios meses* antes de formalizar un ascenso.
 
-**How do I collect evidence to support the discussion with my direct reports?**
+**¿Cómo recopilo evidencia para respaldar la discusión con mis subordinados directos?**
 
-Different teams collect evidence in different ways. A recommended approach is to use a combination of:
+Diferentes equipos recopilan pruebas de diferentes maneras. Un enfoque recomendado es utilizar una combinación de:
 
-- 1:1 conversations
-- Feedback from peers and other teams
-- Self-evaluation
+- Conversaciones 1:1
+- Comentarios de compañeros y otros equipos
+- Autoevaluación
 
-**Could the framework provide more specific examples of behavior to support each level?**
+**¿Podría el marco proporcionar ejemplos más específicos de comportamiento para respaldar cada nivel?**
 
-Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples.
+Ejemplos específicos de comportamiento requieren conocimiento sobre la forma en que trabaja el equipo, la arquitectura del sistema y su pila tecnológica. Se recomienda permitir que cada equipo defina sus propios ejemplos.
 
-**Why does the framework stop at level 7?**
+**¿Por qué el marco se detiene en el nivel 7?**
 
-Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.
+Los niveles 8 y superiores varían drásticamente de una empresa a otra. Las organizaciones de diferentes tamaños tienden a asignar un nivel diverso de alcance a posiciones tan altas en su estructura.
 
-**Do you have any additional resources about the topic?**
+**¿Tiene algún recurso adicional sobre el tema?**
 
 - [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do) : Camille Fournier hace un excelente trabajo al describir las expectativas y los desafíos de muchos puestos de ingeniería. Además, ofrece buenos consejos sobre cómo escribir una escala profesional en el capítulo 9.
 
 - [How to be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295) : Dick Grote explica en términos simples cómo definir las responsabilidades laborales y cómo evaluar el desempeño (resultados y comportamientos).
 
-# Other Pages
+# Otras páginas
 
-- [**Developer**](Developer.md)
-- [**Tech Lead**](TechLead.md)
+- [**Desarrollador**](Developer.md)
+- [**Líder tecnológico**](TechLead.md)
 - [**Director de Proyectos Técnico**](TechnicalProgramManager.md)
-- [**Engineering Manager**](EngineeringManager.md)
+- [**Director de Ingeniería**](EngineeringManager.md)
 - [**Líder Tecnológico vs Director de Ingeniería**](TechLead-EngineeringManager.md)
 - [**Gestionando Gerentes**](Managing-Managers.md)
