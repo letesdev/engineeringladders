@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: Mi Sitio en Español
+permalink: /es
 ---
 
 ¡Bienvenidos a mi sitio en español!
