@@ -7,9 +7,9 @@ Aunque el marco utiliza roles y niveles que son algo estándar en la industria t
 El marco se basa en gran medida en gráficos de radar para representar visualmente las diferentes perspectivas y expectativas de una posición determinada:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../charts/template-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="../charts/template.png">
-  <img alt="Gráfico de plantilla" src="../charts/template.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/es/charts/template-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/es/charts/template.png">
+  <img alt="Gráfico de plantilla" src="/es/charts/template.png">
 </picture>
 
 # Escaleras profesionales
