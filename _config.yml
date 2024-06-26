@@ -1,4 +1,6 @@
-remote_theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 title: Engineering Ladders
 description: A framework for Engineering Managers
-baseurl: "/es"
+plugins:
+- jekyll-remote-theme 
+# baseurl: "/es"
