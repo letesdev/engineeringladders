@@ -3,3 +3,11 @@ title: Engineering Ladders
 description: A framework for Engineering Managers
 plugins:
 - jekyll-remote-theme 
+collections:
+  es:
+    output: true
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "Inicio"
+    link: "/es/"
